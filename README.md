@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 66 | 15 |
+| 67 | 15 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (14)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (25)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (35)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
@@ -93,6 +93,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [GNU C11](https://github.com/kiran1929/Code-Forces/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.c) |
 
 ### games
@@ -148,6 +149,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/kiran1929/Code-Forces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
